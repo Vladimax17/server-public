@@ -1,0 +1,99 @@
+vlade@DESKTOP-226I7VP MINGW64 ~
+$ git config --global user.name "Vladserver"
+
+vlade@DESKTOP-226I7VP MINGW64 ~
+$ git config --global user.email "vladiserver17@gmail.com"
+
+vlade@DESKTOP-226I7VP MINGW64 ~
+$ cd g
+bash: cd: g: No such file or directory
+
+vlade@DESKTOP-226I7VP MINGW64 ~
+$ mkdir repo-remoto
+
+vlade@DESKTOP-226I7VP MINGW64 ~
+$ cd repo-remoto
+
+vlade@DESKTOP-226I7VP MINGW64 ~/repo-remoto
+$ code .
+
+vlade@DESKTOP-226I7VP MINGW64 ~/repo-remoto
+$ git clone https://github.com/Vladimax17/server-public.git
+Cloning into 'server-public'...
+remote: Enumerating objects: 9, done.
+remote: Counting objects: 100% (9/9), done.
+remote: Compressing objects: 100% (5/5), done.
+remote: Total 9 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (9/9), done.
+
+vlade@DESKTOP-226I7VP MINGW64 ~/repo-remoto
+$ ls
+server-public/
+
+vlade@DESKTOP-226I7VP MINGW64 ~/repo-remoto
+$ cd repo-uno
+bash: cd: repo-uno: No such file or directory
+
+vlade@DESKTOP-226I7VP MINGW64 ~/repo-remoto
+$ git add help
+fatal: not a git repository (or any of the parent directories): .git
+
+vlade@DESKTOP-226I7VP MINGW64 ~/repo-remoto
+$ ls
+server-public/
+
+vlade@DESKTOP-226I7VP MINGW64 ~/repo-remoto
+$ cd server-public
+
+vlade@DESKTOP-226I7VP MINGW64 ~/repo-remoto/server-public (master)
+$ code .
+
+vlade@DESKTOP-226I7VP MINGW64 ~
+$ git config --global user.name "Vladserver"
+
+vlade@DESKTOP-226I7VP MINGW64 ~
+$ git config --global user.email "vladiserver17@gmail.com"
+
+vlade@DESKTOP-226I7VP MINGW64 ~
+$ cd g
+bash: cd: g: No such file or directory
+
+vlade@DESKTOP-226I7VP MINGW64 ~
+$ mkdir repo-remoto
+
+vlade@DESKTOP-226I7VP MINGW64 ~
+$ cd repo-remoto
+
+vlade@DESKTOP-226I7VP MINGW64 ~/repo-remoto
+$ code .
+
+vlade@DESKTOP-226I7VP MINGW64 ~/repo-remoto
+$ git clone https://github.com/Vladimax17/server-public.git
+Cloning into 'server-public'...
+remote: Enumerating objects: 9, done.
+remote: Counting objects: 100% (9/9), done.
+remote: Compressing objects: 100% (5/5), done.
+remote: Total 9 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (9/9), done.
+
+vlade@DESKTOP-226I7VP MINGW64 ~/repo-remoto
+$ ls
+server-public/
+
+vlade@DESKTOP-226I7VP MINGW64 ~/repo-remoto
+$ cd repo-uno
+bash: cd: repo-uno: No such file or directory
+
+vlade@DESKTOP-226I7VP MINGW64 ~/repo-remoto
+$ git add help
+fatal: not a git repository (or any of the parent directories): .git
+
+vlade@DESKTOP-226I7VP MINGW64 ~/repo-remoto
+$ ls
+server-public/
+
+vlade@DESKTOP-226I7VP MINGW64 ~/repo-remoto
+$ cd server-public
+
+vlade@DESKTOP-226I7VP MINGW64 ~/repo-remoto/server-public (master)
+$ git status
